@@ -1,0 +1,3 @@
+[submodule "FluidDynamics"]
+	path = FluidDynamics
+	url = https://github.com/Phionx/joukowskiAirfoilVisualization.git
